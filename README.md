@@ -1,5 +1,15 @@
 # 개인정보보호법 키워드에 관한 여론 분석
 
+## 사용 언어 및 기술 스택:
+
+언어 : python / 분석 환경 : Jupyter notebook
+언어 패키지 : 한국 konlpy, 영어 nltk, 중국 jieba
+분석 방법론 : TF-IDF / LDA
+주요 사용 패키지 : 
+- 크롤링 - selenium, BeautifulSoup, requests 등
+- 분석 - pandas, numpy, gensim, spacy, re, sklearn, en_core_web_sm 등
+
+## 분석 매체 및 키워드:
 
 ### 한국 개인정보보호법
 - 매체: 조선일보, SBS, 트위터
